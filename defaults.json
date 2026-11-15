@@ -1,0 +1,12 @@
+{
+  "app": "mock-interview-room",
+  "title": "Interview Room \u00b7 Fictional demo",
+  "port": 4305,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status",
+    "advance"
+  ]
+}
