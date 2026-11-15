@@ -1,0 +1,19 @@
+{
+  "id": "mock-interview-room",
+  "name": "Gather Room",
+  "mark": "GR",
+  "tagline": "Make room for a real conversation.",
+  "colors": {
+    "background": "#faf0ed",
+    "surface": "#ffffff",
+    "text": "#4e2b35",
+    "accent": "#9c3e60"
+  },
+  "typography": {
+    "display": "Palatino Linotype, Georgia, serif",
+    "body": "Verdana, sans-serif",
+    "tracking": ".02em"
+  },
+  "style": "conversation",
+  "radius": 22
+}
